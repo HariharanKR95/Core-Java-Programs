@@ -1,0 +1,12 @@
+
+Abstraction:
+
+   Hiding the implementation details and showing functionality to the user
+   
+   Two ways to achieve the abstraction
+   
+   1) abstract class  --> partial hiding 
+   
+   2) interface  ---> fully hiding
+   
+   

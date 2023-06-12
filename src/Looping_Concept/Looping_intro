@@ -1,0 +1,52 @@
+Looping:
+
+for loop
+
+while loop
+
+do while loop
+
+for each ---> Advance 
+
+
+
+for loop
+==========
+
+for(initialization; condition; increment or decrement)
+{
+   //logics
+
+}
+
+
+While loop
+===========
+
+
+initialization;
+
+while(condition)
+{
+  //logics;
+  
+  //increment or decrement
+
+}
+
+
+do while:
+===========
+
+initialization;
+
+do
+{
+
+  logics;
+  
+  increment or decrement;
+  
+ }
+ 
+ while(condition);

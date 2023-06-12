@@ -1,0 +1,68 @@
+iterable(I) ---> collection(I) ---> List(I), Set(I), Queue(I)
+
+List(I) --> ArrayList, LinkedList, vector
+
+Set(I) --> HashSet, LinkedHashSet, TreeSet
+
+
+List:
+=====
+ 
+ 1) Duplicate elements are allowed
+ 
+ 2) Any number of null values allowed
+ 
+ 3) Insertion Order
+ 
+ 
+ArrayList:
+==========
+
+ 1) Duplicate elements are allowed
+ 
+ 2) Any number of null values allowed
+ 
+ 3) Insertion Order
+ 
+ 4) Single array list
+ 
+ 5) it is non synchronized
+ 
+ 
+ LinkedList:
+ ===========
+ 
+ 1) Duplicate elements are allowed
+ 
+ 2) Any number of null values allowed
+ 
+ 3) Insertion Order
+ 
+ 4) Doubly link list 
+ 
+ 5) it is non synchronized
+ 
+ 
+ Vector:
+ =======
+ 
+ 1) Duplicate elements are allowed
+ 
+ 2) Any number of null values allowed
+ 
+ 3) Insertion Order
+
+ 4) it is synchronized
+ 
+ 
+ Iterating elements:
+ ==================
+ 
+ 1) for loop
+ 
+ 2) for each
+ 
+ 3) Cursors ---> iterator, list iterator, enumeration(only vector class)
+ 
+ 
+ 

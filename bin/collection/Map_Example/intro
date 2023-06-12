@@ -1,0 +1,53 @@
+What is Map?
+
+it is a key and value pair.
+
+Each key and value pair known as Entry.
+
+Each entry known as bucket.
+
+Entry is the sub interface of Map
+
+Map implements HashMap, LinkedHashMap, TreeMap
+
+HashMap<K,V> hm=new HashMap<K,V>();
+
+Properties
+==========
+
+HashMap
+=========
+
+         key                                                   value
+         
+1. Duplicate keys are not allowed                       Duplicate values are allowed
+
+2. Only one null key allowed                            Any number of null keys allowed
+
+3. No order                                             depends on Keys
+
+
+LinkedHashMap:
+==============
+
+         key                                                    value
+         
+         
+1. Duplicate keys are not allowed                       Duplicate values are allowed
+
+2. Only one null key allowed                            Any number of null keys allowed
+
+3. Insertion order                                      Depends on Keys
+
+
+
+TreeMap:
+========
+
+         Key                                                      value
+         
+1. Duplicate keys are not allowed                         Duplicate values are allowed
+
+2. No null keys                                           Any number of null keys allowed
+
+3. Sorting order                                          Depends on keys

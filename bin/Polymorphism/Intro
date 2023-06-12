@@ -1,0 +1,21 @@
+
+Polymorphism?
+ 
+   Single action with multiple ways
+   
+   Two types:
+   
+   1) compile time polymorphism  ---> method overloading
+   
+   2) run time polymorphism   ---> method overriding
+   
+   
+   
+ Method_Overloading :
+ 
+   Same method_name different parameters or argument that is called method overloading.
+   
+   
+ Method_Overriding:
+ 
+   Same method name and same argument with two different classes with relationship parent and child 
